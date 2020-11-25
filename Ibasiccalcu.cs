@@ -6,5 +6,12 @@ namespace Flab2
 {
     interface Ibasiccalcu
     {
+        
+        void Sumation();
+        void Subtraction();
+      
+        void Multiplication();
+
+        void Division();
     }
 }
